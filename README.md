@@ -1,4 +1,5 @@
 # 1. Despliegue de Infraestructura Segura en AWS
+![Diagrama de Arquitectura AWS](arquitectura.png)
 
 Este repositorio contiene la definición de **Infraestructura como Código (IaC)** utilizando AWS CloudFormation. Demuestra la capacidad de diseñar, aprovisionar y gestionar redes en la nube siguiendo las mejores prácticas del *AWS Academy Cloud Foundations*.
 
